@@ -5,9 +5,9 @@ A complete pytorch pipeline for training, cross-validation and inference noteboo
 
 - [Brief overview of the competition images](#Brief-overview-of-the-competition-images)
 - [Notebooks description](#Notebooks-description)
-  - [[TRAIN] notebook](#[TRAIN]-notebook)
-  - [[CV] Cross Validation notebook](#[CV]-Cross-Validation-notebook)
-  - [[INFERENCE] Submission notebook](#[INFERENCE]-Submission-notebook)
+  - [[TRAIN] notebook](##[TRAIN]-notebook)
+  - [[CV] Cross Validation notebook](##[CV]-Cross-Validation-notebook)
+  - [[INFERENCE] Submission notebook](##[INFERENCE]-Submission-notebook)
 - [How to use](#How-to-use)
 - [Improvements](#Improvements)
 
